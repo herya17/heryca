@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a99d918.css",
-    "main.js": "/static/js/main.68f97f69.js",
+    "main.css": "/static/css/main.618f7396.css",
+    "main.js": "/static/js/main.94b61056.js",
+    "static/media/domestic-theme02.mp3": "/static/media/domestic-theme02.135da6a71a9a7c607429.mp3",
+    "static/media/happy-birthday.mp3": "/static/media/happy-birthday.04330e6850bdf50bea0b.mp3",
+    "static/media/Naruto-and-Hinata.mp3": "/static/media/Naruto-and-Hinata.fc3c995a627c241e9a2f.mp3",
+    "static/media/Snow.mp3": "/static/media/Snow.cc0a05d174e0b0248745.mp3",
+    "static/media/domestic-theme01.mp3": "/static/media/domestic-theme01.cdb47c383b0aaf8f98fa.mp3",
+    "static/media/Little-Song.mp3": "/static/media/Little-Song.c0a80f5c9eddddf28afa.mp3",
+    "static/media/First-Love.mp3": "/static/media/First-Love.4d5f9df42a532df06882.mp3",
+    "static/media/Close-to-You.mp3": "/static/media/Close-to-You.7b0f12046ff822bee10c.mp3",
     "index.html": "/index.html",
-    "main.9a99d918.css.map": "/static/css/main.9a99d918.css.map",
-    "main.68f97f69.js.map": "/static/js/main.68f97f69.js.map"
+    "main.618f7396.css.map": "/static/css/main.618f7396.css.map",
+    "main.94b61056.js.map": "/static/js/main.94b61056.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a99d918.css",
-    "static/js/main.68f97f69.js"
+    "static/css/main.618f7396.css",
+    "static/js/main.94b61056.js"
   ]
 }
