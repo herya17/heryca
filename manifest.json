@@ -1,6 +1,6 @@
 {
   "short_name": "HeyCa!!",
-  "name": "HeyCa!!",
+  "name": "HeyCa!! Special 17th",
   "icons": [
     {
       "src": "images/favicon/icon.png",
@@ -19,9 +19,9 @@
     }
   ],
   "start_url": "/",
-  "description": "HeyCa!! - Hey Catatan Kamu, Tuliskan kenangan manis pahitmu tanpa batas, aku akan selalu ada untuk menemanimu.",
+  "description": "HeyCa!! Special 17th",
   "orientation": "portrait",
   "display": "standalone",
-  "theme-color": "#ffffff",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "theme_color": "#faf5ff"
 }
